@@ -1,8 +1,20 @@
-Nette Web Project
-=================
+Nette Web Project with Kdyby/Translate
+========================================
 
 This is a simple, skeleton application using the [Nette](https://nette.org). This is meant to
 be used as a starting point for your new projects.
+
+**There are several components already integrated:**
+
+kdyby/translation
+
+dg/adminer-custom
+
+The **kdyby/translation** is ready to have traslated strings in a database. SQL dump is stored in SQL directory.
+
+Database integration is described here: https://github.com/XcoreCMS/Translation/blob/master/docs/en/index.md#database-integration
+
+------------------------
 
 [Nette](https://nette.org) is a popular tool for PHP web development.
 It is designed to be the most usable and friendliest as possible. It focuses
